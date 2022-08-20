@@ -16,7 +16,7 @@ Sharpe Ratio Category
 - ratio > 1.0 good
 - ratio > 2.0 very good
 - ratio > 3.0 excellent
-- 
+
 After considering the efficient frontier theory, as well as the sharpe ratio, it is time to start the code to optimize a sample financial portfolio.
 
 # 🛠 Tech stuck
